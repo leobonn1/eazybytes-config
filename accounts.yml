@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs changed!"
+  message: "Welcome to EazyBank accounts related docker APIs changed again!"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
